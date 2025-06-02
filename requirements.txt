@@ -1,0 +1,9 @@
+# requirements.txt
+
+# Only standard library used, but optionally include:
+# (Uncomment if OpenAI or future features are added)
+# openai>=1.0.0
+
+# For type hints and linting (optional)
+# mypy
+# black
